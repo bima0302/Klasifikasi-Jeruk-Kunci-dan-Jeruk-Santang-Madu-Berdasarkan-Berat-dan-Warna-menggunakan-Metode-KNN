@@ -1,4 +1,5 @@
-# Klasifikasi-Jeruk-Kunci-dan-Jeruk-Santang-Madu-Berdasarkan-Berat-dan-Warna-menggunakan-Metode-KNN
+# Implementasi Pattern Recognition menggunakan K-Nearest Neighbor 
+## Klasifikasi Jeruk Kunci dan Jeruk Santang Madu Berdasarkan Berat dan Warna menggunakan Metode KNN
 Pada projek akhir ini kami melakukan Klasifikasi terhadap Jeruk Santang Madu dan Jeruk Kunci yang mana pada input warna terbagi menjadi tiga spektrum warna, yaitu Red, Green, dan Blue.
 ![](documentation.jpg)
 
@@ -15,4 +16,8 @@ Numpy
 Servo.h
 HX711.h (load cell)
 LiquidCrystal_I2C.h (LCD)
+``` 
+### Dataset
+```
+Dokumentasi Pribadi Peneliti
 ``` 
