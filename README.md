@@ -4,6 +4,9 @@ Pada projek akhir ini kami melakukan Klasifikasi terhadap Jeruk Santang Madu dan
 ![](documentation.jpg)
 
 [DEMO VIDEO click here!](https://www.youtube.com/watch?v=p0su3leJ0DI)
+### Flowchart
+![](flowchart.png)
+
 ### Libraries used (python)
 ```
 Pyserial
